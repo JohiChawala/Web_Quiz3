@@ -1,0 +1,137 @@
+.signup-box {
+    width: 100%;
+    max-width: 384px;
+    margin: 0 auto;
+    margin-top: 20%;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input-field {
+    width: 100%;
+    height: 34px;
+    background: #FFFDFD;
+    box-shadow: 2px 4px 6px rgba(78, 78, 78, 0.15);
+    border-radius: 15px;
+    border: 1px #CCCCCC solid;
+}
+
+.signup-button {
+    display: flex;
+    align-items: center;
+}
+
+.signup-icon {
+    width: 25px;
+    height: 25px;
+    background: #03A9F4;
+    border-radius: 50%;
+}
+
+.checkbox-icon {
+    width: 2.98px;
+    height: 13.01px;
+    background: white;
+}
+
+.facebook-icon {
+    display: flex;
+    align-items: center;
+}
+
+.fb-icon-inner {
+    width: 23.33px;
+    height: 23.33px;
+    background: #03A9F4;
+    border-radius: 50%;
+}
+
+.fb-line-1 {
+    width: 6.34px;
+    height: 12.83px;
+    background: white;
+}
+
+.signup-text {
+    color: #707070;
+    font-size: 15px;
+    font-family: Gilroy-Medium;
+    font-weight: 400;
+}
+
+.signup-btn {
+    width: 100%;
+    max-width: 384px;
+    height: 34px;
+    background: #03A9F4;
+    box-shadow: 2px 4px 6px rgba(78, 78, 78, 0.15);
+    border-radius: 15px;
+    border: 1px #CCCCCC solid;
+}
+
+.signup-btn-text {
+    color: white;
+    font-size: 15px;
+    font-family: Gilroy-Medium;
+    font-weight: 400;
+}
+
+.input-label {
+    color: #4F4F4F;
+    font-size: 14px;
+    font-family: Gilroy-Regular;
+    font-weight: 400;
+}
+
+.terms-text {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.terms-checkbox {
+    width: 8px;
+    height: 8px;
+    background: #FFFDFD;
+    border: 1px #CACACA solid;
+}
+
+.terms-label {
+    color: #4F4F4F;
+    font-size: 12px;
+    font-family: Gilroy-Regular;
+    font-weight: 400;
+}
+
+.signup-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.signup-title {
+    color: #4F4F4F;
+    font-size: 45px;
+    font-family: Gilroy-Bold;
+    font-weight: 400;
+    letter-spacing: 6.75px;
+}
+
+.signup-subtitle {
+    color: rgba(79, 79, 79, 0.80);
+    font-size: 25px;
+    font-family: Gilroy-Medium;
+    font-weight: 400;
+}
+
+.background-image {
+    background-image: url('4282077 1.png'); /* Replace with your image URL */
+    opacity: 0.95;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
